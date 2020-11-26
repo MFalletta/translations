@@ -143,7 +143,7 @@ de:
     colombia: Kolombien
     croatia: Kroatien
     cuba: Kuba
-    czech_republic: Czech Republic
+    czech_republic: Tschechische Republik
     denmark: Dänemark
     ecuador: Ecuador
     egypt: Ägypten
@@ -164,7 +164,7 @@ de:
     iceland: Island
     india: Indien
     indonesia: Indonesien
-    iran: Iran, Islamic Republic of
+    iran: Iran
     iraq: Irak
     ireland: Irland
     israel: Israel
@@ -172,8 +172,8 @@ de:
     italy_trentino_alto_adige: 'Italy: Trentino-Alto Adige'
     japan: Japan
     korea: Korea, Republic of
-    latvia: Latvia
-    lithuania: Lithuania
+    latvia: Lettland
+    lithuania: Litauen
     luxembourg: Luxemburg
     malta: Malta
     mexico: Mexiko
@@ -181,7 +181,7 @@ de:
     monaco: Monaco
     montenegro: Montenegro
     netherlands: Niederlande
-    new_zealand: New Zealand
+    new_zealand: Neuseeland
     northern_ireland: Nordirland
     norway: Norwegen
     papua_new_guinea: Papua Neu-Guinea
@@ -192,12 +192,12 @@ de:
     portugal: Portugal
     puerto_rico: Puerto Rico
     romania: Rumänien
-    russian_federation: Russian Federation
+    russian_federation: Russische Föderation
     saudi_arabia: Saudi-Arabien
     serbia: Serbien
-    slovakia: Slovakia
-    slovenia: Slovenien
-    south_africa: South Africa
+    slovakia: Slowakei
+    slovenia: Slowenien
+    south_africa: Südafrika
     spain: Spanien
     sweden: Schweden
     switzerland: Schweiz
@@ -210,7 +210,7 @@ de:
     ukraine: Ukraine
     uruguay: Uruguay
     usa: Vereinigte Staaten von Amerika (USA)
-    venezuela: Venezuela, Bolivarian Republic of
+    venezuela: Venezuela, Bolivarische Republik
     vietnam: Vietnam
   records:
     a_major: A-Dur
@@ -441,7 +441,7 @@ de:
     g_major: G-Dur
     g_minor: g-Moll
     g_minus_1: G-1
-    g_minus_2_octave: g-2 (oktavierenden Violinschlüssels)
+    g_minus_2_octave: g-2 (oktavierender Violinschlüssel)
     g_minus_2_treble: G-2 (Violin-Schlüssel)
     g_minus_3: G-3
     g_minus_4: G-4
@@ -554,7 +554,7 @@ de:
     material_held: Erhaltenes Material
     material_not_examined: Keine Autopsie
     media_type: Physisches Medium
-    mensural_clefs: Mensural clefs
+    mensural_clefs: Mensuralschlüssel
     method_of_acquisition: Beschaffungsart
     misattributed: Fälschlich
     miscellaneous: Verschiedenes
@@ -726,7 +726,7 @@ de:
     scoring_summary: Besetzungshinweis
     scribe: Schreiber
     secondary_literature: Sekundärliteratur
-    series: Series
+    series: Serie
     series_added_entry: Nebeneintragungen Gesamttitel
     series_statement: Gesamttitelangaben
     set: Set
@@ -774,7 +774,7 @@ de:
     technical_errors: Technische Fehler
     technical_production: Hersteller
     temp_val: Temp val
-    templates: Templates
+    templates: Vorlagen
     terms_of_availability: Bedingungen der Verfügbarkeit
     terms_voices_instruments: Stimmen- und Instrumentenbezeichnungen
     text_author: Textdichter
